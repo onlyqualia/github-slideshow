@@ -2,5 +2,5 @@
 int main(int argc,char *argv[])
 {
     printf("HELLOWORLD!");
-    return 0;
+    return 1;
 }
